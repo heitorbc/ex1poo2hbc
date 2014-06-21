@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package poo2.ex8rpn.APP;
+package poo2.Ex4Estrategia.APP;
 
 import java.io.IOException;
 import java.util.Stack;
@@ -12,7 +12,7 @@ import java.util.Stack;
  *
  * @author heitor.coelho
  */
-public class Ex8RPN {
+public class Ex4Estrategia {
 
     public static void main(String[] args) throws IOException {
         String[] tokens = new String[]{"2", "1", "+", "3", "*"};
